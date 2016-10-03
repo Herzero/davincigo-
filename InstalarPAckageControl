@@ -1,0 +1,32 @@
+Sublime Text (DESCARGAR)
+
+http://www.sublimetext.com/
+
+=================
+
+1. Instalar el control package desde aquÌ: https://sublime.wbond.net/installation y hacer lo siguiente:
+
+	a. Copiar el cÛdigo que se muestra en las pestaÒas (elegir la versiÛn de Sublime que tengamos)
+	b. Ir a sublime a: View > Show Console (se abre una pequeÒa barra en la parte inferior)
+	c. Pegar el cÛdigo que copiamos con anterioridad y dar ENTER.
+	d. Reiniciar el Sublime
+
+2. Pulsar "ctrl + shift + p" o ir a Tools > Command Palette.
+
+3. Escribir "control" y en las opciones buscar "Control Package: Install Package" (luego esperar unos segundos, se abrir· una ventanita similar).
+
+4. Buscar e instalar los siguientes paquetes:
+	
+	a. Emmet (para escribir cÛdigo como un Jedi :D)
+	b. AutoFileName (para que muestre la ruta de los archivos en los atributos src="" y href="")
+	c. HTMLAttributes (para habilitar los atributos en html. Se activa con "ctrl + space bar")
+	d. ColorPicker (Para tener el bote de pintura. Se abre con "ctrl + shift + c")
+	e. SplitScreen (Para tener dos pestaÒas de cÛdigo)
+
+5. SER FELIZ :D
+
+=================
+
+Tutorial para escribir cÛdigo velozmente con EMMET
+http://docs.emmet.io/abbreviations/syntax/
+http://html5facil.com/tutoriales/escribe-codigo-como-un-maestro-zen-con-zen-coding-en-sublime-text-2
